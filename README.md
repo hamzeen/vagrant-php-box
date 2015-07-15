@@ -16,7 +16,7 @@ PHP MVC application with user & session management.
 * You need to visit **firstrun** page during first session to initialize the database schema and table(s). this
 page is accessible from http://localhost:1234/firstrun (running it more than once will not halt the app **:)** )
 
-* PhpMyAdmin is accessible from http://localhost:1234/phpmyadmin
+* PhpMyAdmin is accessible from (http://localhost:1234/phpmyadmin)
 
 * Vagrant sets up MySQL with following credentials:
 
@@ -28,9 +28,10 @@ page is accessible from http://localhost:1234/firstrun (running it more than onc
 
 
 ## Pre-Requisites ##
-*   [**VirutalBox**] (http://www.onformative.com/), for LeapMotionP5 wrappers.
-*   [**Vagrant**] (https://code.google.com/p/saitoobjloader/), for the object loader.
-*
+*   [**VirutalBox**] (https://www.virtualbox.org/wiki/Download_Old_Builds) (I've used an older build 4.3.
+The latest doesn’t seem to work on OSX Yosemite)
+*   [**Vagrant**] (https://www.vagrantup.com/)
+
 
 ##Tips
 
