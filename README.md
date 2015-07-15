@@ -26,7 +26,7 @@ page is accessible from <http://localhost:1234/firstrun> (running it more than o
 * Some metadata related to this app
 (If your host isn't the same as mine, that shouldn't be a problem **:)** )
 
-     * host **OSX/Yosemite**] * guest **ubuntu/trusty64** * port **1234**
+     * host **OSX/Yosemite**] | guest **ubuntu/trusty64** | port **1234**
 
 
 ![https://github.com/hamzeen/vagrant-php-box/raw/master/address_book_app.jpg](https://github.com/hamzeen/vagrant-php-box/raw/master/address_book_app.jpg)
