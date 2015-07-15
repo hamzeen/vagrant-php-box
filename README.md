@@ -14,9 +14,9 @@ PHP MVC application with user & session management.
 * The application can now accessible from http://localhost:1234 (The port could be changed in Vagrantfile)
 
 * You need to visit **firstrun** page during first session to initialize the database schema and table(s). this
-page is accessible from http://localhost:1234/firstrun (running it more than once will not halt the app **:)** )
+page is accessible from <http://localhost:1234/firstrun> (running it more than once will not halt the app **:)** )
 
-* PhpMyAdmin is accessible from (http://localhost:1234/phpmyadmin)
+* PhpMyAdmin is accessible from <http://localhost:1234/phpmyadmin>
 
 * Vagrant sets up MySQL with following credentials:
 
