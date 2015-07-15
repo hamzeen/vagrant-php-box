@@ -11,7 +11,7 @@ PHP MVC application with user & session management.
 
     ```$ vagrant up```
 
-* The application can now accessible from http://localhost:1234 (The port could be changed in Vagrantfile)
+* The application can now accessible from <http://localhost:1234> (The port could be changed in Vagrantfile)
 
 * You need to visit **firstrun** page during first session to initialize the database schema and table(s). this
 page is accessible from <http://localhost:1234/firstrun> (running it more than once will not halt the app **:)** )
