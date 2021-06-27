@@ -38,18 +38,18 @@ The latest doesn’t seem to work on OSX Yosemite)
 *   [**Vagrant**] (https://www.vagrantup.com/)
 
 
-##Tips
+## Tips
 
-####If you need to install the virtualbox used here (you need to do it only once)
+#### If you need to install the virtualbox used here (you need to do it only once)
 ```$ vagrant box add ubuntu/trusty64```
 
-####Increase Startup speed (skip provisioning)
+#### Increase Startup speed (skip provisioning)
 To speed up the startup process use ```$ vagrant up --no-provision```
 
-####If you want to know your vagrant version
+#### If you want to know your vagrant version
 ```$ vagrant -v```
 
-####Once you had enough with this app!
+#### Once you had enough with this app!
 ```$ vagrant destroy```
 
 >Shout at me if you find anything missing here!
